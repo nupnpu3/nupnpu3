@@ -16,7 +16,7 @@
 제가 다룰 수 있는 기술은 다음과 같습니다. 
 
 ### 💻 언어
-![Python](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849568972863/81nwobjayd181.png?ex=6741e67c&is=674094fc&hm=476bd255737b820aeea6135dde4cbff75d47fd99f06d9cd6ddbfcdf4456f6a47&)
+![Python](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849829277798/267_Python-512.png?ex=6741e67c&is=674094fc&hm=17e9368fea6bb4336227d1e2e71ebac41bfd5240338a870db5f74c2c83116146&)
 ![JavaScript](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849015320668/javascript.png?ex=6741e67c&is=674094fc&hm=edfd8b033c07736a05a568907d3b6114a047b9ff997fbfb593437b2507fe570a&)
 
 ### 🔧툴
