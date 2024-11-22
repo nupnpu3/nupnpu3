@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hi There!
 
-![Header](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile!)
+![Header](https://cdn.discordapp.com/attachments/1043565419136569394/1309499352678400060/pexels-pixabay-210227.jpg?ex=6741cdcf&is=67407c4f&hm=e760dd603b8ac7d5de3e53973b3e3a6e79cfbb83b6042d2177290dc1f9ce08a0&)
 
 ## 🧑‍💻 About Me
 안녕하세요! 저는 [Your Profession or Interest]로 활동 중인 [Your Name]입니다.  
