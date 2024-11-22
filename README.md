@@ -29,21 +29,33 @@
 코딩을 전문적으로 다룰 수 있다고 말할 만큼 자신 있는 것은 아닙니다.  
 하지만 학습을 통한 진도를 따라갈 수는 있으며, 여전히 배워나가고 있는 학생이기에  
 파이썬 뿐만 아니라 C언어 등 다양한 언어를 공부하고자 하는 계획이 있습니다.  
+
+<div align=center>
   
 ![JavaScript](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849015320668/javascript.png?ex=6741e67c&is=674094fc&hm=edfd8b033c07736a05a568907d3b6114a047b9ff997fbfb593437b2507fe570a&)  
 ★★★☆☆  
+
+</div>
 간단한 웹페이지 제작이 가능합니다. 또한, 후술된 그래픽 관련 업무 역시 가능하므로  
 디자인적인 부분에서도 어렵지 않게 사용할 수 있습니다.  
 
 ### 🔧툴
+<div align=center>
+  
 ![Maya 3D](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849263046709/autodesk-maya-logo-F485ED50BF-seeklogo.com.png?ex=6741e67c&is=674094fc&hm=71654eb0dc1fc5b0dfb3c76046d926303920e8fcddc45177fdd0e0179d20faa1&)  
 ★★★★☆  
+
+</div>
 모델링, 텍스처링, 애니메이션 등 툴 전반의 사용이 가능합니다.  
 다만 아주 복잡한 애니메이션이나, 액체와 같은 고난이도 작업의 경우 공부하고 있다고 볼 수 있습니다.  
 현재는 마야를 이용해 영상에 CG를 입히는 VFX 작업까지 해본 경험이 있습니다.  
+
+<div align=center>
   
 ![PhotoShop](https://cdn.discordapp.com/attachments/1043565419136569394/1309527938110197861/dark-adobe-photoshop-icon-0.png?ex=6741e86e&is=674096ee&hm=0eb61edac133b36597ea077cba7581ff163b567e0fda4f337445d8746e6bd060&)  
 ★★★★★  
+</div>
+
 포토샵뿐만 아니라 일러스트, 프리미어 등 어도비 프로그램 대부분을 사용 가능합니다.  
 기존의 전공, 그리고 현재도 그래픽을 주력으로 밀고 있는 만큼, 평소에도 개인적으로 다양한 작업을 시도해보고 있습니다.  
 해당 툴과 관련한 부분은 자신 있다고 당당하게 말할 수 있습니다.  
