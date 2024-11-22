@@ -20,8 +20,10 @@
 제가 다룰 수 있는 기술은 다음과 같습니다. 
 
 ### 💻 언어
+<div align=center>
 ![Python](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849829277798/267_Python-512.png?ex=6741e67c&is=674094fc&hm=17e9368fea6bb4336227d1e2e71ebac41bfd5240338a870db5f74c2c83116146&)  
 ★★☆☆☆  
+</div>
 코딩을 전문적으로 다룰 수 있다고 말할 만큼 자신 있는 것은 아닙니다.  
 하지만 학습을 통한 진도를 따라갈 수는 있으며, 여전히 배워나가고 있는 학생이기에  
 파이썬 뿐만 아니라 C언어 등 다양한 언어를 공부하고자 하는 계획이 있습니다.  
@@ -69,8 +71,6 @@
 ![Footer](https://cdn.discordapp.com/attachments/1043565419136569394/1309500553180741682/pexels-jonathanborba-5808756.jpg?ex=6741ceed&is=67407d6d&hm=ba08898210d25e0490caa0edda8d39880ee53c8585faf87ed219a29349b68cc3&)
 
   <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnupnpu3&count_bg=%2366B1FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
   </div>
 
