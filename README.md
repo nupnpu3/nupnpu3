@@ -21,8 +21,10 @@
 
 ### 💻 언어
 <div align=center>
+  
 ![Python](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849829277798/267_Python-512.png?ex=6741e67c&is=674094fc&hm=17e9368fea6bb4336227d1e2e71ebac41bfd5240338a870db5f74c2c83116146&)  
 ★★☆☆☆  
+
 </div>
 코딩을 전문적으로 다룰 수 있다고 말할 만큼 자신 있는 것은 아닙니다.  
 하지만 학습을 통한 진도를 따라갈 수는 있으며, 여전히 배워나가고 있는 학생이기에  
