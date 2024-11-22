@@ -68,3 +68,9 @@
 
 ![Footer](https://cdn.discordapp.com/attachments/1043565419136569394/1309500553180741682/pexels-jonathanborba-5808756.jpg?ex=6741ceed&is=67407d6d&hm=ba08898210d25e0490caa0edda8d39880ee53c8585faf87ed219a29349b68cc3&)
 
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+
