@@ -26,6 +26,7 @@
 ★★☆☆☆  
 
 </div>
+
 코딩을 전문적으로 다룰 수 있다고 말할 만큼 자신 있는 것은 아닙니다.  
 하지만 학습을 통한 진도를 따라갈 수는 있으며, 여전히 배워나가고 있는 학생이기에  
 파이썬 뿐만 아니라 C언어 등 다양한 언어를 공부하고자 하는 계획이 있습니다.  
@@ -36,6 +37,7 @@
 ★★★☆☆  
 
 </div>
+
 간단한 웹페이지 제작이 가능합니다. 또한, 후술된 그래픽 관련 업무 역시 가능하므로  
 디자인적인 부분에서도 어렵지 않게 사용할 수 있습니다.  
 
@@ -46,6 +48,7 @@
 ★★★★☆  
 
 </div>
+
 모델링, 텍스처링, 애니메이션 등 툴 전반의 사용이 가능합니다.  
 다만 아주 복잡한 애니메이션이나, 액체와 같은 고난이도 작업의 경우 공부하고 있다고 볼 수 있습니다.  
 현재는 마야를 이용해 영상에 CG를 입히는 VFX 작업까지 해본 경험이 있습니다.  
@@ -85,6 +88,8 @@
 ![Footer](https://cdn.discordapp.com/attachments/1043565419136569394/1309500553180741682/pexels-jonathanborba-5808756.jpg?ex=6741ceed&is=67407d6d&hm=ba08898210d25e0490caa0edda8d39880ee53c8585faf87ed219a29349b68cc3&)
 
   <div align=center>
+    
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnupnpu3&count_bg=%2366B1FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
+  
   </div>
 
