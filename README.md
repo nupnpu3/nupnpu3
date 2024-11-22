@@ -16,12 +16,12 @@
 제가 다룰 수 있는 기술은 다음과 같습니다. 
 
 ### 💻 언어
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849568972863/81nwobjayd181.png?ex=6741e67c&is=674094fc&hm=476bd255737b820aeea6135dde4cbff75d47fd99f06d9cd6ddbfcdf4456f6a47&)
+![JavaScript](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849015320668/javascript.png?ex=6741e67c&is=674094fc&hm=edfd8b033c07736a05a568907d3b6114a047b9ff997fbfb593437b2507fe570a&)
 
 ### 🔧툴
-![Maya 3D]
-![Unity](https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec)
+![Maya 3D](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849263046709/autodesk-maya-logo-F485ED50BF-seeklogo.com.png?ex=6741e67c&is=674094fc&hm=71654eb0dc1fc5b0dfb3c76046d926303920e8fcddc45177fdd0e0179d20faa1&)
+![Unity](https://cdn.discordapp.com/attachments/1043565419136569394/1309525849568972863/81nwobjayd181.png?ex=6741e67c&is=674094fc&hm=476bd255737b820aeea6135dde4cbff75d47fd99f06d9cd6ddbfcdf4456f6a47&)
 
 ---
 
